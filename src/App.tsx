@@ -6,7 +6,7 @@ function App() {
     <div className="profile">
       <div className="head">
         <div className="banner">
-          <img src="https://picsum.photos/300/200" alt="" />
+          <img src="https://photo-cms-baophapluat.epicdn.me/w840/Uploaded/2023/nykxxqymrk/2021_11_23/starry-night-1093721-960-720-7985.jpeg" alt="" />
         </div>
         <div className="avatar">
           <img src="./hinh nen.jpg" alt="" />
