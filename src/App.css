@@ -54,7 +54,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../public/50-Beautiful-and-Minimalist-Presentation-Backgrounds-02.jpg");
+  background-image: url("./50-Beautiful-and-Minimalist-Presentation-Backgrounds-02.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

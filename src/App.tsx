@@ -9,7 +9,7 @@ function App() {
           <img src="https://picsum.photos/300/200" alt="" />
         </div>
         <div className="avatar">
-          <img src="../public/hinh nen.jpg" alt="" />
+          <img src="./hinh nen.jpg" alt="" />
         </div>
       </div>
       <div className="content">
